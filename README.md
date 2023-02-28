@@ -7,4 +7,5 @@ We maken onze code helder en duidelijk leesbaar door er voldoende spatiëring, t
 
 We proberen enkele zeer eenvoudige DOM ingrepen.
 
-2. Deel het grootste getal door het kleinste.
+2. Examenresultaten  
+Deel het grootste getal door het kleinste.
