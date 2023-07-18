@@ -1,0 +1,14 @@
+body {
+	font-family:Verdana, Geneva, sans-serif;
+	background-color: #b7b7a4;
+}
+
+label {
+    display: inline-block;
+    width: 6em;
+}
+
+#output {
+    background-color: #CFC;
+    padding: 1em;
+}
