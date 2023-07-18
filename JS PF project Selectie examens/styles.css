@@ -1,3 +1,8 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
 body {
 	font-family:Verdana, Geneva, sans-serif;
 	background-color: #b7b7a4;
