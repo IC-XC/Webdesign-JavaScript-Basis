@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width">
+    <title>Javascript PF taak: Deling</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+<body>
+    <h1>Javascript PF taak: Deling</h1>
+
+    <h3>Opdracht:</h3>
+
+    <ul>
+        <li>
+            Lees twee getallen in. Deel het grootste door het kleinste en toon het resultaat in het
+            <em>output element</em>
+        </li>
+
+        <li>
+            ook negatieve getallen zijn toegelaten
+        </li>
+
+        <li>
+            herinner de gebruiker er aan dat je niet mag delen door 0. Waarschuw de gebruiker in een
+            <em>berichtenvenster</em>
+        </li>
+
+        <li>
+            we veronderstellen dat de input echt een getal is,
+            <em>valideren</em>
+            moet je nog niet doen
+        </li>
+    </ul>
+
+    <h3>Geteste topics</h3>
+
+    <ul>
+        <li>programmatielogica : selectie</li>
+    </ul>
+
+    <h3>Oplossing:</h3>
+
+    <form>
+        <p>
+            <label for="getal1">getal 1</label>
+            <input type="text" name="getal1" id="getal1" size="2" />
+        </p>
+
+        <p>
+            <label for="getal2">getal 2</label>
+            <input type="text" name="getal2" id="getal2" size="2" />
+        </p>
+
+        <p>
+            <button type="button" id="deKnop">Bereken deling</button>
+        </p>
+    </form>
+
+    <div class="vb" id="output"></div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
