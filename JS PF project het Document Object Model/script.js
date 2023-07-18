@@ -44,7 +44,7 @@ window.onload = function(){
     var eItem = document.createElement('div');
     eItem.setAttribute("id", "footer");
 
-    /* We maken een hyperlink aan naar de VDAB website */
+    /* We maken een hyperlink aan naar de GitHub website */
     var eLink = document.createElement('a');
     eLink.setAttribute("href", "https://github.com/IC-XC");
     eLink.setAttribute("target", "b_lank");
