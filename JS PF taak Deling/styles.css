@@ -5,7 +5,7 @@ html {
 
 body {
 	font-family:Verdana, Geneva, sans-serif;
-	background-color: #b7b7a4;
+	background: linear-gradient(to right, lightblue, rgb(153, 139, 141));
 }
 
 label {
