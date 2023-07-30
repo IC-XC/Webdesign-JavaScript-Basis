@@ -1,0 +1,19 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+      font-family:Verdana, Geneva, sans-serif;
+      background: linear-gradient(to right, lightblue, rgb(153, 139, 141));
+  }
+
+label {
+    display: inline-block;
+    width: 100px;
+}
+
+output {
+    background-color: #CCFFCC;
+    padding: 1em;
+}
