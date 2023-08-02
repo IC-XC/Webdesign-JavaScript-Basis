@@ -1,0 +1,39 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+      font-family:Verdana, Geneva, sans-serif;
+      background: linear-gradient(to right, lightblue, rgb(153, 139, 141));
+  }
+
+
+.rood {
+    background-color: #FF8ABF;
+}
+
+.groen {
+    background-color: #FFFF99;
+}
+
+#browserTest {
+    background-color: #FFFF99;
+    font-weight: bold;
+}
+
+#featureLijst {
+    width: 500px;
+}
+
+.support {
+    float: right;
+}
+
+ul {
+    background-color: #D8E6F3;
+}
+
+li {
+    margin: 0.2em;
+}
